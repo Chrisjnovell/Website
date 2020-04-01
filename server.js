@@ -7,7 +7,6 @@ const fs = require("fs")
 
 //app.use stuff
 app.use(express.static("images"))
-app.use(express.static("client"))
 app.use(express.urlencoded())
 app.use(express.json())
 
