@@ -6,6 +6,7 @@ const port = 8080;
 const fs = require("fs")
 
 //app.use stuff
+app.use(express.static(__dirname));
 app.use(express.static("images"))
 app.use(express.urlencoded())
 app.use(express.json())
