@@ -10,4 +10,9 @@ app.use(express.static("images"))
 app.use(express.urlencoded())
 app.use(express.json())
 
+//Post and get server functions
+app.get('/', function(req, res){
+  res.render('index.html');
+});
+
 app.listen(port, () => console.log("server is listening"))
