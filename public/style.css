@@ -8,11 +8,11 @@ body{
 
 .title {
   text-align: center;
-  font-size: 2em;
+  font-size: 1.7em;
 }
 
 .footer {
-  font-size: .45em;
+  font-size: .4em;
   text-align: center;
   bottom: 0;
   left: 0;
@@ -25,7 +25,7 @@ section {
   border-style: solid;
   border-radius: 20px;
   height: auto;
-  font-size: .65em;
+  font-size: .5em;
 }
 
 h1 {
@@ -46,7 +46,7 @@ h2{
   list-style-type: none;
   overflow: hidden;
   background-color: #0099cc;
-  font-size: .8em;
+  font-size: .7em;
   padding: 0;
 }
 .nav_element {
