@@ -88,20 +88,15 @@ h2{
 #indexProjects {
   width: 90%;
   height: 400px;
-  display: inline-block;
-  float: right;
 }
 
 #indexBadminton {
   width: 90%;
   height: 400px;
-  display: inline-block;
-  float: left;
 }
 
 #indexCubing {
-  width: 90%;
+  width: 90%
+  min-width: 200px;
   height: 400px;
-  display: inline-block;
-  float: right;
 }
