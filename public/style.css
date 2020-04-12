@@ -18,6 +18,7 @@ body{
   left: 0;
   right: 0;
   position: fixed;
+  margin-bottom: 0px;
 }
 
 section {
@@ -26,6 +27,8 @@ section {
   border-radius: 20px;
   height: auto;
   font-size: .5em;
+  margin-bottom: 20px;
+  display: block;
 }
 
 h1 {
@@ -48,10 +51,11 @@ h2{
   background-color: #0099cc;
   font-size: .7em;
   padding: 0;
+  display: block;
 }
 .nav_element {
   float: left;
-  width: 20vw;
+  width: 19.5vw;
 }
 .nav_element a {
   display: block;
@@ -61,7 +65,7 @@ h2{
   text-decoration: none;
 }
 .nav_element a:hover {
-  background-color: #ffffff;
+  color: #ffffff;
 }
 
 #index {
@@ -69,4 +73,15 @@ h2{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+#intro {
+  height: 300px;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 49.64%;
+}
+
+#trial {
+  box-sizing: content-box;
 }
