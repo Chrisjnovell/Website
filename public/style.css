@@ -79,8 +79,29 @@ h2{
 }
 
 #intro {
-  height: 329.5px;
+  height: 470px;
   display: inline-block;
   box-sizing: border-box;
   width: 32.85%;
+}
+
+#indexProjects {
+  width: 90%;
+  height: 400px;
+  display: inline-block;
+  float: right;
+}
+
+#indexBadminton {
+  width: 90%;
+  height: 400px;
+  display: inline-block;
+  float: left;
+}
+
+#indexCubing {
+  width: 90%;
+  height: 400px;
+  display: inline-block;
+  float: right;
 }
