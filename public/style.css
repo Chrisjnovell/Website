@@ -17,17 +17,16 @@ body{
   bottom: 0;
   left: 0;
   right: 0;
-  position: fixed;
   margin-bottom: 0px;
 }
 
 section {
   border-color: #0099cc;
   border-style: solid;
-  border-radius: 20px;
+  border-radius: 15px;
   height: auto;
   font-size: .5em;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   display: block;
 }
 
@@ -68,6 +67,10 @@ h2{
   color: #ffffff;
 }
 
+#group {
+  box-sizing: content-box;
+}
+
 #index {
   /*background-image: url('images/openpc.jpg');*/
   background-repeat: no-repeat;
@@ -76,12 +79,8 @@ h2{
 }
 
 #intro {
-  height: 300px;
+  height: 329.5px;
   display: inline-block;
   box-sizing: border-box;
-  width: 49.64%;
-}
-
-#trial {
-  box-sizing: content-box;
+  width: 32.85%;
 }
