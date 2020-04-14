@@ -73,9 +73,9 @@ h2{
 
 #index {
   /*background-image: url('images/openpc.jpg');*/
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  /*background-attachment: fixed;*/
+  /*background-size: cover;*/
 }
 
 #intro {
@@ -98,5 +98,10 @@ h2{
 #indexCubing {
   width: 90%
   min-width: 200px;
+  height: 400px;
+}
+
+#aboutProfilePic {
+  width: 400px;
   height: 400px;
 }
