@@ -40,7 +40,13 @@ h1 {
 }
 
 h2{
-  font-size: 1em;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+h3{
+  font-weight: normal;
+  font-size: 1.25em;
   text-align: center;
 }
 
@@ -54,7 +60,7 @@ h2{
 }
 .nav_element {
   float: left;
-  width: 19.5vw;
+  width: 20%;
 }
 .nav_element a {
   display: block;
