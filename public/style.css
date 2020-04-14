@@ -45,8 +45,8 @@ h2{
 }
 
 h3{
-  font-weight: normal;
   font-size: 1.25em;
+  font-weight: normal;
   text-align: center;
 }
 
@@ -75,13 +75,6 @@ h3{
 
 #group {
   box-sizing: content-box;
-}
-
-#index {
-  /*background-image: url('images/openpc.jpg');*/
-  /*background-repeat: no-repeat;*/
-  /*background-attachment: fixed;*/
-  /*background-size: cover;*/
 }
 
 #intro {
