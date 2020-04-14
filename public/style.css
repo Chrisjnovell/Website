@@ -90,18 +90,13 @@ h2{
   height: 400px;
 }
 
-#indexBadminton {
-  width: 90%;
-  height: 400px;
-}
-
-#indexCubing {
+#indexHobbies {
   width: 90%
   min-width: 200px;
   height: 400px;
 }
 
 #aboutProfilePic {
-  width: 400px;
+  width: 300px;
   height: 400px;
 }
